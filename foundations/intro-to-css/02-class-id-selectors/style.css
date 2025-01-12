@@ -1,0 +1,15 @@
+.header, .body, .footer{
+    background-color: lightpink;
+    font: 'Verdana', 'DeJavu Sans', 'sans-serif'
+}
+#number2{
+    color: blue;
+    font-size: 36px;
+}
+.paragraph.body{
+    font-size: 24px;
+}
+#number4{
+    background-color: lightgreen;
+    font-weight: bold;
+}
